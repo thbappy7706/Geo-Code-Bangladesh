@@ -3,8 +3,7 @@ Division, District and Upazila level fully mapped Dataset in SQL, CSV, JSON, XML
 
 
 
-## To seed in db:
-
+# To seed in db:
 <?php
 
 namespace Database\Seeders;
